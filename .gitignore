@@ -3,3 +3,11 @@ venv/
 __pycache__/
 path/
 .DS_Store
+
+# ChromaDB database directories & sqlite files
+**/chroma.sqlite3
+**/Hybrid_Data/
+**/Retrival/
+**/use_hybrid_Data/
+**/Reranker_with_RAG/
+**/chroma_db/
