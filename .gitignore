@@ -11,3 +11,10 @@ path/
 **/use_hybrid_Data/
 **/Reranker_with_RAG/
 **/chroma_db/
+
+# Ignore other projects in this directory
+/Vanilla_RAG/
+/RERanker_with_Hybrid_RAG/
+/Practice DSA /
+/Agentic RAG /
+
