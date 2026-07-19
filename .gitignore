@@ -14,7 +14,12 @@ path/
 
 # Ignore other projects in this directory
 /Vanilla_RAG/
-/RERanker_with_Hybrid_RAG/
 /Practice DSA /
 /Agentic RAG /
+/MultiAgentic RAG/
 
+# Ignore root notebooks and explainer PDF
+/HYBrid_RAG.ipynb
+/Practice Hybrid RAG.ipynb
+/second_Practice_RAG.ipynb
+/Why_Language_Models_Hallucinate_Explainer.pdf
